@@ -4,6 +4,10 @@
     <list default="true" id="1bdb4123-0234-4b25-b181-b8208a763ecb" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/Leftpart/LeftPart.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/Leftpart/LeftPart.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/Leftpart/MainContent/AboutMe/AboutMe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/Leftpart/MainContent/AboutMe/aboutMe.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/Leftpart/MainContent/HomePage/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/Leftpart/MainContent/HomePage/homepage.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/Leftpart/MainContent/MainContent.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/Leftpart/MainContent/mainContent.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/Leftpart/OwnData/OwnData.js" afterDir="false" />
@@ -16,6 +20,10 @@
       <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/RightPart/Rightpart.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/RightPart/rightPart.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/cvre/src/components/Main/main.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cvre" beforeDir="false" afterPath="$PROJECT_DIR$/cvre" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cvre/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cvre/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cvre/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cvre/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cvre/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cvre/public/index.html" afterDir="false" />
@@ -36,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -44,17 +53,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cvre" />
   </component>
   <component name="ProjectId" id="1c02Qfjd6CtmSnAKjYCCrPSn8hc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../play" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -94,21 +107,37 @@
       <workItem from="1589885280900" duration="5000" />
       <workItem from="1589885301518" duration="11000" />
       <workItem from="1589885324621" duration="2000" />
-      <workItem from="1589889557802" duration="7770000" />
+      <workItem from="1589889557802" duration="8369000" />
+      <workItem from="1589965340110" duration="410000" />
+      <workItem from="1589966612712" duration="1308000" />
+      <workItem from="1590049774760" duration="1161000" />
+      <workItem from="1590064054442" duration="2235000" />
+      <workItem from="1590235397699" duration="624000" />
+      <workItem from="1590318824093" duration="13320000" />
+      <workItem from="1590488936133" duration="5350000" />
+      <workItem from="1590498507796" duration="4000" />
+      <workItem from="1590504729138" duration="590000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="519" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589913816979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="519" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589913816979" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1589915684229">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1590504782430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589915684229" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590504782430" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590496790070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590496790070" />
   </component>
 </project>
